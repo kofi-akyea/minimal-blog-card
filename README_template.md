@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/kofi-akyea/minimal-blog-card">
       Solution
     </a>
     <span> | </span>
@@ -65,10 +65,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
@@ -83,4 +79,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Author
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@kofi-akyea](https://{github.com/your-usermame})
